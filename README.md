@@ -7,6 +7,19 @@
 
 Hi there! 👋 I'm Vignesh, a detail-oriented and passionate software engineer with professional experience in building efficient systems and scalable applications. Currently pursuing my Master’s in Computer Science at NYU.
 
+## 🏆 Hackathon Excellence  
+
+### 🥇 **Winner | AI Agents Hackathon – Building for Social and Marketing Use Cases (NYC)**  
+- Developed an AI-driven solution for **automated social media and marketing insights** using cutting-edge LLMs.  
+- Secured **$500 cash prize** for creating a highly scalable and efficient agent-based architecture.  
+
+### 🥇 **Winner | AI Agents for Faster Renewable Energy Projects Hackathon (NYC)**  
+- Designed a **dynamic ESG scoring framework** to assess and enhance **renewable energy project success**.  
+- Built a **real-time AI-driven decision-making tool** to accelerate **green energy adoption**.  
+
+### 🏆 **Runner-up | MAKE@SVCE 24-Hour Hackathon**  
+- Competed against **500+ participants** in an intensive **state-level hackathon**, securing the **runner-up position**.
+  
 ## 🛠️ Professional Experience
 
 ### 💼 Software Engineer, Zoho Corporation
