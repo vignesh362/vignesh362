@@ -2,14 +2,14 @@
 
 **Software Engineer • CS Grad Student at NYU**  
 
-Detail-oriented **software** engineer and NYU CS graduate student with experience building scalable, data-intensive systems and AI-powered applications across Ads, SaaS, and startup environments.[file:3] Consistently deliver measurable performance improvements and have a strong track record in AI hackathons and production-grade engineering.
+Detail-oriented **software** engineer and NYU CS graduate student with experience building scalable, data-intensive systems and AI-powered applications across Ads, SaaS, and startup environments. Consistently deliver measurable performance improvements and have a strong track record in AI hackathons and production-grade engineering.
 
 ---
 
 ## 🏆 Hackathon Highlights
 
 - 🥇 **AI Agents – Social & Marketing (NYC)**  
-  - Built an AI-driven multi-agent system for automated social media insights and marketing content generation using LLMs, enabling real-time trend analysis and campaign optimization.[file:3]  
+  - Built an AI-driven multi-agent system for automated social media insights and marketing content generation using LLMs, enabling real-time trend analysis and campaign optimization.
   - Earned 1st place among 50+ teams and a $500 prize for a modular, scalable agent architecture.
 
 - 🥇 **AI Agents – Faster Renewable Energy Projects (NYC)**  
